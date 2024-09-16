@@ -1,0 +1,45 @@
+Write a program to swape adjucent elemnts in a list?
+x=[5,6,10,11,20,22,40]
+output=[6,5,11,10,22,20,40]
+2. Write a program to find sum of odd numbers from an array?
+x=[2,1,[4,7,3],9,1]
+output=[21]
+3.Write a program to sort a given string and find highest occurence character?
+4. Write a program to find time of executing a program?
+
+
+1.Write a python program to remove vowels from a given string using decorator
+2. write a python program to reverse the words in a given string and make the words in ascending order
+3.create a procedure to print febanoci series upto specific limit
+
+
+1.Write a python function to find count of pairs of same elements and except odd count elements
+x=[5,2,5,7,5,2,9]
+output:2-(5,5),(2,2)
+2. write a function to manually raise an exception using 'raise'?
+3. Write an SQL query to delete records of employee who are in a specific department and have a salary below a cretain amount
+--> delet from employee where department_id=1 and salary <65000;
+
+
+1.Write a program to make sort only strings in a given list?
+  Example: x = [3,’d’,5,’c’,1,’a’,9,2,’b’]
+  Output = [3,’a’,5,’b’,1,’c’,9,2,’d’]
+2.Write a program to find square of a given elements in a list by using tuple comprehension?
+
+3.Write a query to increase the salary of employees in the given department by 10%?
+---> update employee set salary = salary*0.1 where department = developing;
+
+4.Write a query to find the total amount spent by each customer?
+---> select coustomer_id, sum(order_amount) as total_spent from order group by customer_id;
+
+
+1. Write a function to find first non-repeating character in a string and return its index if doesn't exists retuon-1
+2. Write a function to find longest substring without repeating characters?
+3.Write a SQL query to find employee who earn more than their managers from single table.
+4.Write a SQL query to find all customer who never place an order?s
+
+
+
+
+
+
